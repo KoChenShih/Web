@@ -2,6 +2,8 @@
 
 Hi everyone! My name is Ko-chen, and this is my website. 
 
+<img align="right" src="640x360_43.jpg"/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
