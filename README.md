@@ -4,7 +4,7 @@ Hi everyone! My name is Ko-chen, and this is my website.
 
 <br />
 
-<img align="right" src="640x360_43.jpg"/>
+<img align="right" src="640x360_43.jpg"/> <br />
 
 
 ## Introduce Myself
