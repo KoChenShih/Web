@@ -14,7 +14,10 @@ I'm a 20 years old student. My home town is Taoyuan. <img width="350" height="25
 <br />
 <br />
 
-I like to play basketball with my friends in my free time. I love basketball. My favorite basketball player is Lebron James.
+I like to play basketball with my friends in my free time. I love basketball. My favorite basketball player is Lebron James. <br />
+
+<img width="400" height="300" align="right" src="gettyimages-1128131986.jpg"/>
+<br />
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
