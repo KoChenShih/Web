@@ -20,8 +20,12 @@ I like to play basketball with my friends in my free time. I love basketball. My
 <br />
 <br />
 What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https://en.wikipedia.org/wiki/LeBron_James).
-<img width="400" height="300" align="right" src="gettyimages-1128131986.jpg"/>
+<img align="right" src="gettyimages-1128131986.jpg"/>
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
