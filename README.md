@@ -9,24 +9,8 @@ Hi everyone! My name is Ko-chen, and this is my website.
 
 I'm a 20 years old student. My home town is Taoyuan. 
 
+<img align="right" src="640x360_43.jpg"/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![/images/640x360_43.jpg](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
