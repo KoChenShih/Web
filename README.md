@@ -18,9 +18,14 @@ I like to play basketball with my friends in my free time. I love basketball. My
 
 <img width="400" height="300" align="right" src="gettyimages-1128131986.jpg"/>
 <br />
-
+<br />
 What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https://en.wikipedia.org/wiki/LeBron_James).
 
+<br />
+<br />
+<br />
+<br />
+<br />
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KoChenShih/Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
