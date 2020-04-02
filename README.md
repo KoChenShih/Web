@@ -19,7 +19,7 @@ I like to play basketball with my friends in my free time. I love basketball. My
 <img width="400" height="300" align="right" src="gettyimages-1128131986.jpg"/>
 <br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https://en.wikipedia.org/wiki/LeBron_James).
 
 ### Jekyll Themes
 
