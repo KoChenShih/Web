@@ -8,9 +8,8 @@ Hi everyone! My name is Ko-chen, and this is my website.
 ## Introduce Myself
 
 I'm a 20 years old student. My home town is Taoyuan. <img width="350" height="250" align="right" src="New_image_of_Taoyuan_City.jpg"/>
-`
-`
-`
+<br />
+
 I like to play basketball with my friends in my free time. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
