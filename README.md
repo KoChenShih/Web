@@ -6,6 +6,7 @@ Hi everyone! My name is Ko-chen, and this is my website.
 
 <br />
 <br />
+<br />
 
 ## Introduce Myself
 
@@ -13,7 +14,7 @@ I'm a 20 years old student. My home town is Taoyuan. <img width="350" height="25
 <br />
 <br />
 
-I like to play basketball with my friends in my free time. 
+I like to play basketball with my friends in my free time. I love basketball. My favorite basketball player is Lebron James.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
