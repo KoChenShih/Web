@@ -38,7 +38,22 @@ What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https
 It's your time to introduce yourself. What's your name? What's your habbit? Do you like basketball? 
 <br />
 <br />
+<img align="right" src="6b7ed8090e190621c803d23bd334c01b.jpg"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### More about me
+<br />
+ Do you want to know me more? Here is my information.
+ <br />
+ [FB](https://www.facebook.com/) :施科臣
+ <br />
+ [IG](https://www.instagram.com/?hl=zh-tw) :kochen.skrskrskrskrskr
+ 
