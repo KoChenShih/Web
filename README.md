@@ -48,12 +48,18 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
 <br />
 <br />
 <br />
+<script>
+.skr{
+     color:#0FFFFFF;
+}
+ 
 
+</script>
 ### More about me
 <br />
  Do you want to know me more? Here is my information.
  <br />
- <button>[FB:施科臣](https://www.facebook.com/) </button>
+ <button id="skr">[FB:施科臣](https://www.facebook.com/) </button>
  <br />
  [IG](https://www.instagram.com/?hl=zh-tw) :kochen.skrskrskrskrskr
  
