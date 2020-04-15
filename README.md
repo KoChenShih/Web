@@ -10,20 +10,16 @@ Hi everyone! My name is Ko-chen, and this is my website.
 ## Introduce Myself
 
 I'm a 20 years old student. My home town is Taoyuan. <img width="350" height="250" align="right" src="New_image_of_Taoyuan_City.jpg"/>
-<br />
-<br />
-<br />
-<br />
-<br />
+<br><br>
 
 I like to play basketball with my friends in my free time. I love basketball. My favorite basketball player is Lebron James. 
-<br />
-<br />
+<br>
+<br>
 What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https://en.wikipedia.org/wiki/LeBron_James).
 <button><img align="right" src="gettyimages-1128131986.jpg"/></button>
 
 <br>
-<br />
+<br>
 
 ### How about you?
 
@@ -34,21 +30,13 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
  <iframe width="600" height="360" src="https://www.youtube.com/embed/X4x2B1Lr2nA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <img align="right" src="6b7ed8090e190621c803d23bd334c01b.jpg"/>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br><br>
 
 ### More about me
 <br />
  Do you want to know me more? Here is my information.
  <br />
- <button  width="600" height="360"">[FB:施科臣](https://www.facebook.com/) </button>
+ <button  width="600" height="360">[FB:施科臣](https://www.facebook.com/) </button>
  <br />
  [IG](https://www.instagram.com/?hl=zh-tw) :kochen.skrskrskrskrskr
  
