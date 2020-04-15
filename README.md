@@ -16,7 +16,7 @@ I like to play basketball with my friends in my free time. I love basketball. My
 <br>
 <br>
 What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https://en.wikipedia.org/wiki/LeBron_James).
-<button><img align="right" src="gettyimages-1128131986.jpg"/></button>
+<img align="right" src="gettyimages-1128131986.jpg"/>
 
 <br>
 <br>
@@ -24,8 +24,8 @@ What? You don't know who is Lebron??? Here is his introduction. see [Wiki](https
 ### How about you?
 
 It's your time to introduce yourself. What's your name? What's your habbit? Do you like basketball? 
-<br />
-<br />
+<br>
+<br>
 
  <iframe width="600" height="360" src="https://www.youtube.com/embed/X4x2B1Lr2nA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
