@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 ## Welcome to Ko-chen's Pages
 <head>
 <style>
@@ -43,7 +45,6 @@
     </form>
   </div>
 </nav>
-</body>
 Hi everyone! My name is Ko-chen, and this is my website.
 
 <br />
@@ -101,3 +102,5 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
  <br />
  [IG](https://www.instagram.com/?hl=zh-tw) :kochen.skrskrskrskrskr
  
+</body>
+</html>
