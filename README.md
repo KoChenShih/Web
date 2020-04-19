@@ -1,7 +1,20 @@
+<html>
+ 
 
-<i class="far fa-angry"></i>
-
-
+<head>
+ 
+ <script src="//code.jquery.com/jquery-3.5.0.min.js"></script>
+ 
+ </head>
+ 
+ <body>
+ 
+ <script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
+ 
+ 
+ 
 ## Welcome to Ko-chen's Pages
 
 Hi everyone! My name is Ko-chen, and this is my website.
@@ -46,7 +59,5 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
   <br />
  
 
- 
- 
-
-  
+</body>
+  </html>
