@@ -1,10 +1,5 @@
 
-$( "button.continue" ).html( "Next Step..." )
-
-var hiddenBox = $( "#banner-message" );
-$( "#button-container button" ).on( "click", function( event ) {
-  hiddenBox.show();
-});
+<i class="far fa-angry"></i>
 
 
 ## Welcome to Ko-chen's Pages
