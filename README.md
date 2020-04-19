@@ -1,3 +1,12 @@
+
+$( "button.continue" ).html( "Next Step..." )
+
+var hiddenBox = $( "#banner-message" );
+$( "#button-container button" ).on( "click", function( event ) {
+  hiddenBox.show();
+});
+
+
 ## Welcome to Ko-chen's Pages
 
 Hi everyone! My name is Ko-chen, and this is my website.
@@ -39,6 +48,15 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
  <button  width="600" height="360">[FB:施科臣](https://www.facebook.com/) </button>
  <br />
  [IG](https://www.instagram.com/?hl=zh-tw) :kochen.skrskrskrskrskr
+ 
+ 
+
+ 
+ 
+
+    
+
+    	
  
 
 
