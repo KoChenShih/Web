@@ -16,7 +16,7 @@ I'm a 20 years old student. My home town is Taoyuan. <img width="350" height="25
 I like to play basketball with my friends in my free time. I love basketball. My favorite basketball player is Lebron James. 
 <br>
 <br>
-What? You don't know who is Lebron??? Here is his introduction. see <button  width="600" height="500">[Wiki](https://en.wikipedia.org/wiki/LeBron_James).
+What? You don't know who is Lebron??? Here is his introduction. see <button  width="600" height="500">[Wiki](https://en.wikipedia.org/wiki/LeBron_James).</button>
 <img align="right" src="gettyimages-1128131986.jpg"/>
 
 <br>
@@ -28,7 +28,7 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
 <br>
 <br>
 
- <iframe width="600" height="360" src="https://www.youtube.com/embed/X4x2B1Lr2nA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="600" height="360" src="https://www.youtube.com/watch?v=rN17J-KMWnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <img align="right" src="6b7ed8090e190621c803d23bd334c01b.jpg"/>
 <br><br>
