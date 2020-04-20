@@ -1,20 +1,4 @@
-<html>
- 
 
-<head>
- 
- <script src="//code.jquery.com/jquery-3.5.0.min.js"></script>
- 
- </head>
- 
- <body>
- 
- <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
- 
- 
- 
 ## Welcome to Ko-chen's Pages
 
 Hi everyone! My name is Ko-chen, and this is my website.
@@ -50,6 +34,7 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
 <br><br>
 
 ### More about me
+    
 <br />
  Do you want to know me more? Here is my information.
  <br />
@@ -58,6 +43,3 @@ It's your time to introduce yourself. What's your name? What's your habbit? Do y
  <button  width="600" height="500">[IG:kochen.skrskrskrskrskr](https://www.instagram.com/?hl=zh-tw) </button>
   <br />
  
-
-</body>
-  </html>
